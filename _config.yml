@@ -1,8 +1,8 @@
 title: Clara Michelle
 description: "Relatos sobre o trabalho de Clara Michelle e sua equipe."
-url: "https://michelle.souox.com"
+url: "https://tisha.50x.com.br"
 baseurl: ""
-permalink: /:slug.html
+permalink: /p/:slug.html
 lang: pt-BR
 
 author: "Clara Michelle"
@@ -15,7 +15,7 @@ posts_per_page: 10
 
 banner_image: "/assets/img/banner-460x60.jpg"
 banner_alt: "Binance"
-banner_url: ""
+banner_url: "#cripto"
 
 newsletter_action: "#"
 newsletter_title: "Receba os próximos relatos"
